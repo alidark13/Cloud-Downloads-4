@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3881",
+  "folder": "Music__4dOQpeSX9gL7VsHD3wm0S0_20260515151202_81c590",
+  "base_name": "Music__4dOQpeSX9gL7VsHD3wm0S0_20260515151202_81c590.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-4/releases/tag/co-releases-v1-3881",
+  "files": [
+    {
+      "name": "Music__4dOQpeSX9gL7VsHD3wm0S0_20260515151202_81c590.bin",
+      "url": "https://github.com/alidark13/Cloud-Downloads-4/releases/download/co-releases-v1-3881/Music__4dOQpeSX9gL7VsHD3wm0S0_20260515151202_81c590.bin",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-4/releases/assets/421095163",
+      "id": 421095163,
+      "size": 906,
+      "download_count": 0
+    }
+  ]
+}
