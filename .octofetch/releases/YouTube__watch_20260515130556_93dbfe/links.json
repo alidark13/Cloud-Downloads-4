@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8304",
+  "folder": "YouTube__watch_20260515130556_93dbfe",
+  "base_name": "OS84eSuDnYE_OS84eSuDnYE_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-4/releases/tag/co-releases-v1-8304",
+  "files": [
+    {
+      "name": "OS84eSuDnYE_OS84eSuDnYE_480p.mp4",
+      "url": "https://github.com/alidark13/Cloud-Downloads-4/releases/download/co-releases-v1-8304/OS84eSuDnYE_OS84eSuDnYE_480p.mp4",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-4/releases/assets/421014777",
+      "id": 421014777,
+      "size": 13022997,
+      "download_count": 0
+    }
+  ]
+}
