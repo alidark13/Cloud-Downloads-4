@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2485",
+  "folder": "YouTube__watch_20260515094011_28087f",
+  "base_name": "MITM_PSIPHON_(_)(_)(_)_C0Xr8bmhAow_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-4/releases/tag/co-releases-v1-2485",
+  "files": [
+    {
+      "name": "MITM_PSIPHON_._._._._C0Xr8bmhAow_720p.mp4",
+      "url": "https://github.com/alidark13/Cloud-Downloads-4/releases/download/co-releases-v1-2485/MITM_PSIPHON_._._._._C0Xr8bmhAow_720p.mp4",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-4/releases/assets/420897968",
+      "id": 420897968,
+      "size": 18973561,
+      "download_count": 0
+    }
+  ]
+}
